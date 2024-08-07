@@ -1,0 +1,60 @@
+{
+  "xe_may": [
+    {
+      "id": "0",
+      "ten_xe_ph45160": "Honda Wave Alpha",
+      "mau_sac_ph45160": "Đỏ",
+      "gia_ban_ph45160": 17800000,
+      "mo_ta_ph45160": "Xe máy tiết kiệm nhiên liệu, phù hợp cho đi lại trong thành phố.",
+      "hinh_anh_ph45160": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/31/d5/9683729ad8572ac56c88cc81861fc932.png"
+    },
+    {
+      "id": "1",
+      "ten_xe_ph45160": "Yamaha Exciter",
+      "mau_sac_ph45160": "Xanh",
+      "gia_ban_ph45160": 47000000,
+      "mo_ta_ph45160": "Xe máy thể thao, thiết kế mạnh mẽ, động cơ mạnh mẽ.",
+      "hinh_anh_ph45160": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/31/d5/9683729ad8572ac56c88cc81861fc932.png"
+    },
+    {
+      "id": "2",
+      "ten_xe_ph45160": "Suzuki Raider",
+      "mau_sac_ph45160": "Đen",
+      "gia_ban_ph45160": 49000000,
+      "mo_ta_ph45160": "Xe máy hiệu suất cao, kiểu dáng thể thao, động cơ bền bỉ.",
+      "hinh_anh_ph45160": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/31/d5/9683729ad8572ac56c88cc81861fc932.png"
+    },
+    {
+      "id": "3",
+      "ten_xe_ph45160": "Piaggio Liberty",
+      "mau_sac_ph45160": "Trắng",
+      "gia_ban_ph45160": 57000000,
+      "mo_ta_ph45160": "Xe tay ga cao cấp, thiết kế thanh lịch, nhiều tiện nghi hiện đại.",
+      "hinh_anh_ph45160": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/31/d5/9683729ad8572ac56c88cc81861fc932.png"
+    },
+    {
+      "id": "4",
+      "ten_xe_ph45160": "Honda SH",
+      "mau_sac_ph45160": "Đen",
+      "gia_ban_ph45160": 78000000,
+      "mo_ta_ph45160": "Xe tay ga sang trọng, động cơ mạnh mẽ, nhiều tính năng hiện đại.",
+      "hinh_anh_ph45160": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/31/d5/9683729ad8572ac56c88cc81861fc932.png"
+    },
+    {
+      "id": "4bbc",
+      "ten_xe_ph45160": "aaaa",
+      "mau_sac_ph45160": "red",
+      "gia_ban_ph45160": "2000",
+      "mo_ta_ph45160": "dep",
+      "hinh_anh_ph45160": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/31/d5/9683729ad8572ac56c88cc81861fc932.png"
+    },
+    {
+      "id": "b05e",
+      "ten_xe_ph45160": "honda",
+      "mau_sac_ph45160": "blue",
+      "gia_ban_ph45160": "20001222",
+      "mo_ta_ph45160": "depppp",
+      "hinh_anh_ph45160": "file:///data/user/0/com.thithu_react1/cache/rn_image_picker_lib_temp_b333a213-b827-4137-8f92-f64ddd9a4759.jpg"
+    }
+  ]
+}
